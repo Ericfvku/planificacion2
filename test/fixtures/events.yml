@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  salon: MyString
+  cantidad: 1
+  room: false
+  food: false
+  name: MyString
+
+two:
+  salon: MyString
+  cantidad: 1
+  room: false
+  food: false
+  name: MyString
